@@ -1,0 +1,23 @@
+file 1cpasdo {ziole&zeyy.js}
+rdux system confing.cpp
+rdux system seet.zenid
+rdux system seet.json
+cd shadow
+start {
+    node install package.json
+    system make listpunyaziolewak.cpp
+    system nano listpunyaziolewak.cpp 6281250555198 (contac ziole buat beli)
+    done
+    exit zenconsol
+} 
+fart zeno os 
+remake luxsystem
+shift --force 
+gitpack install ziole*zeno/latest
+run start
+break zenoid 5sec
+start console --online (8080)
+fart zeno os 
+if fart {true} run {system update --all --force}
+system zeno --ver
+if zeno ver {<4.45} return else run shadow.js

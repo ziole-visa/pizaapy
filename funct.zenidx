@@ -1,0 +1,86 @@
+system in #$${shadowx}
+
+----------------------enc<>
+ <zenidx> olkhediuhsdiufhioeasfhgoaewiufhq9p8rfh0q249rtyq934h5345h6iu543ho97h35o7noj4567oi45hj6o7ih45ou7hi53b7i3445iuno34bj6h2ioup5hou123597234hbdp3i4hyf905yh2756u678678ruirft84e8r678678678678ftiutyutyutyutyu logs{
+    2025-09-14 12:42:46 [Init] Session started for target 76.126.179.44
+2025-09-14 12:43:50 [Init] Session started for target 222.69.73.236
+2025-09-14 12:43:52 [WiFiCrack] module started
+2025-09-14 12:43:55 [WiFiCrack] Password found: letmein!
+2025-09-14 12:43:55 [WiFiCrack] module finished
+2025-09-14 12:44:10 [Session] Ended
+2025-09-14 12:44:52 [Init] Session started for target 162.162.167.243
+2025-09-14 12:44:57 [Recon] module started
+2025-09-14 12:44:59 [Recon] Found host: 162.162.167.243
+2025-09-14 12:44:59 [Recon] Found host: 228.37.226.253
+2025-09-14 12:44:59 [Recon] Found host: 38.218.130.233
+2025-09-14 12:45:01 [Recon] Enumeration complete.
+2025-09-14 12:45:01 [Recon] module finished
+2025-09-14 12:45:10 [StealthCleaner] module started
+2025-09-14 12:45:11 [StealthCleaner] traces wiped (simulated)
+2025-09-14 12:45:11 [StealthCleaner] module finished
+2025-09-14 12:45:16 [CryptoMinerSim] module started
+2025-09-14 12:45:17 [CryptoMinerSim] Simulation complete
+2025-09-14 12:45:17 [CryptoMinerSim] module finished
+2025-09-14 12:45:27 [Recon] module started
+2025-09-14 12:45:29 [Recon] Found host: 162.162.167.243
+2025-09-14 12:45:29 [Recon] Found host: 250.243.207.184
+2025-09-14 12:45:30 [Recon] Found host: 40.176.25.131
+2025-09-14 12:45:31 [Recon] Enumeration complete.
+2025-09-14 12:45:31 [Recon] module finished
+2025-09-14 12:45:32 [VulnScan] module started
+2025-09-14 12:45:35 [VulnScan] Potential vuln: CVE-2024-XXXX -> Remote Code Execution
+2025-09-14 12:45:35 [VulnScan] module finished
+2025-09-14 12:45:36 [ExploitEngine] module started
+2025-09-14 12:45:40 [ExploitEngine] Attempts failed; escalate
+2025-09-14 12:45:40 [ExploitEngine] module finished
+2025-09-14 12:45:41 [Persistence] module started
+2025-09-14 12:45:42 [Persistence] Implant dropped
+2025-09-14 12:45:43 [Persistence] module finished
+2025-09-14 12:45:44 [RAT] module started
+2025-09-14 12:45:45 [RAT] uploaded: /usr/bin/credentials.db.enc
+2025-09-14 12:45:45 [RAT] uploaded: /usr/bin/tokens.sqlite
+2025-09-14 12:45:45 [RAT] uploaded: /usr/bin/wallets.json
+2025-09-14 12:45:46 [RAT] uploaded: /usr/bin/admin_passlist.txt
+2025-09-14 12:45:46 [RAT] uploaded: /usr/bin/backup_2025.tar.gz
+2025-09-14 12:45:46 [RAT] uploaded: /usr/bin/session_cookie_cache.bin
+2025-09-14 12:45:46 [RAT] uploaded: /usr/bin/ssh_keys.pem
+2025-09-14 12:45:47 [RAT] module finished
+2025-09-14 12:45:47 [StealthCleaner] module started
+2025-09-14 12:45:48 [StealthCleaner] traces wiped (simulated)
+2025-09-14 12:45:48 [StealthCleaner] module finished
+2025-09-14 12:47:09 [Session] Ended
+2025-09-14 12:47:22 [Init] Session started for target 51.162.101.177
+2025-09-14 12:50:42 [Init] Session started for target 253.97.76.14
+2025-09-14 12:51:10 [Recon] module started
+2025-09-14 12:51:12 [Recon] Found host: 253.97.76.14
+2025-09-14 12:51:12 [Recon] Found host: 250.106.5.14
+2025-09-14 12:51:12 [Recon] Found host: 147.2.72.212
+2025-09-14 12:51:14 [Recon] Enumeration complete.
+2025-09-14 12:51:14 [Recon] module finished
+2025-09-14 12:51:14 [VulnScan] module started
+2025-09-14 12:51:17 [VulnScan] Potential vuln: CVE-2023-YYYY -> Auth Bypass
+2025-09-14 12:51:18 [VulnScan] module finished
+2025-09-14 12:51:18 [ExploitEngine] module started
+2025-09-14 12:51:23 [ExploitEngine] Attempts failed; escalate
+2025-09-14 12:51:23 [ExploitEngine] module finished
+2025-09-14 12:51:23 [Persistence] module started
+2025-09-14 12:51:24 [Persistence] Implant dropped
+2025-09-14 12:51:25 [Persistence] module finished
+2025-09-14 12:51:26 [RAT] module started
+2025-09-14 12:51:27 [RAT] uploaded: /usr/bin/credentials.db.enc
+2025-09-14 12:51:27 [RAT] uploaded: /usr/bin/tokens.sqlite
+2025-09-14 12:51:28 [RAT] uploaded: /usr/bin/wallets.json
+2025-09-14 12:51:28 [RAT] uploaded: /usr/bin/admin_passlist.txt
+2025-09-14 12:51:28 [RAT] uploaded: /usr/bin/backup_2025.tar.gz
+2025-09-14 12:51:28 [RAT] uploaded: /usr/bin/session_cookie_cache.bin
+2025-09-14 12:51:29 [RAT] uploaded: /usr/bin/ssh_keys.pem
+2025-09-14 12:51:29 [RAT] module finished
+2025-09-14 12:51:29 [StealthCleaner] module started
+2025-09-14 12:51:30 [StealthCleaner] traces wiped (simulated)
+2025-09-14 12:51:30 [StealthCleaner] module finished
+2025-09-14 12:51:44 [Session] Ended
+} end <zenidx>
+----------------------end<>
+
+~~ gw enc karna ada id dev gw dah itu aja btw ini versi lain dari zenid (versi agak gila nya) nah yang ini kaya koding python tapi mirim sama cpp 
+~~ khusus untuk di zeno os (gak ada di web)
